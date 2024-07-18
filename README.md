@@ -9,7 +9,7 @@ A passionate web developer specializing in PHP and Symfony. I'm also expanding m
 - 📚 Currently diving into Python with FastAPI and GoLang to broaden my tech stack.
 - 🔍 Always eager to learn new technologies and improve my coding skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis3386)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis3386)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Tech Stack
 
